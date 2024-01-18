@@ -1,0 +1,14 @@
+C:\Users\johnny\source\repos\ConsoleDiceApp\bin\Debug\net8.0\ConsoleDiceApp.exe
+C:\Users\johnny\source\repos\ConsoleDiceApp\bin\Debug\net8.0\ConsoleDiceApp.deps.json
+C:\Users\johnny\source\repos\ConsoleDiceApp\bin\Debug\net8.0\ConsoleDiceApp.runtimeconfig.json
+C:\Users\johnny\source\repos\ConsoleDiceApp\bin\Debug\net8.0\ConsoleDiceApp.dll
+C:\Users\johnny\source\repos\ConsoleDiceApp\bin\Debug\net8.0\ConsoleDiceApp.pdb
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.AssemblyInfoInputs.cache
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.AssemblyInfo.cs
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.csproj.CoreCompileInputs.cache
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.dll
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\refint\ConsoleDiceApp.dll
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.pdb
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ConsoleDiceApp.genruntimeconfig.cache
+C:\Users\johnny\source\repos\ConsoleDiceApp\obj\Debug\net8.0\ref\ConsoleDiceApp.dll
